@@ -1,4 +1,4 @@
-# soniya-dhull
+soniya 
 # Soniya Dhull
 
 Exploring the world of AI & Digital Marketing · Kaithal, Haryana, India
