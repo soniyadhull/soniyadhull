@@ -29,3 +29,7 @@ Learning AI & Digital Marketing and building projects around them.
 - Social Media Marketing
 - YouTube Growth & Content Strategy
 - AI tools for Digital Marketing
+
+## Contact
+
+- LinkedIn: [Soniya Dhull](https://www.linkedin.com/in/soniya-dhull-9373a743a)
