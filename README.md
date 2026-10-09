@@ -11,8 +11,8 @@ Learning AI & Digital Marketing and building projects around them.
 
 | Project | Description | Links |
 |---|---|---|
-| Candy Crush 3D Sweet Saga | Score aur level-based 3D game (TypeScript) | [Code](https://github.com/soniyadhull/candy-crush-3D-sweet-saga-game) |
-| Mychatbot | Digital marketing ki saari information dene wala chatbot | [Code](https://github.com/soniyadhull/Mychatbot) |
+| Candy Crush 3D Sweet Saga | score and level-based 3D game built with Typescript (TypeScript) | [Code](https://github.com/soniyadhull/candy-crush-3D-sweet-saga-game) |
+| Mychatbot | A chatbot that provides digital marketing information | [Code](https://github.com/soniyadhull/Mychatbot) |
 
 ## Skills
 
