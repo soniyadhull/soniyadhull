@@ -11,7 +11,7 @@ Learning AI & Digital Marketing
 
 | Project | Description | Links |
 |---|---|---|
-| Candy Crush 3D Sweet Saga | A score and level-based 3D game built with TypeScript | [Live](GAME-KA-POORA-LINK) · [Code](https://github.com/soniyadhull/candy-crush-3D-sweet-saga-game) |
+| Candy Crush 3D Sweet Saga | A score and level-based 3D game built with TypeScript | | Candy Crush 3D Sweet Saga | A score and level-based 3D game built with TypeScript | [Live](https://candy...run.app wala poora link) · [Code](https://github.com/soniyadhull/candy-crush-3D-sweet-saga-game) |(https://github.com/soniyadhull/candy-crush-3D-sweet-saga-game) |
 | Mychatbot | A chatbot that provides digital marketing information | [Live](CHATBOT-KA-POORA-LINK) · [Code](https://github.com/soniyadhull/Mychatbot) |
 
 
