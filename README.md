@@ -33,3 +33,16 @@ Learning AI & Digital Marketing
 ## Contact
 
 - LinkedIn: [Soniya Dhull](https://www.linkedin.com/in/soniya-dhull-9373a743a)
+
+## Education
+
+| Degree / Course | Institution | Status |
+|---|---|---|
+| Bachelor of Arts (B.A.), 2nd Year | IGNOU (Indira Gandhi National Open University) | Pursuing |
+
+## Certifications & Courses
+
+| Course | Status |
+|---|---|
+| Digital Marketing with AI | Ongoing |
+| Computer Basics | Completed |
