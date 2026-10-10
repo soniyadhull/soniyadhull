@@ -5,7 +5,7 @@ Exploring the world of AI & Digital Marketing · Kaithal, Haryana, India
 
 [LinkedIn](https://www.linkedin.com/in/soniya-dhull-9373a743a)
 
-Learning AI & Digital Marketing and building projects around them.
+Learning AI & Digital Marketing 
 
 ## Projects
 
