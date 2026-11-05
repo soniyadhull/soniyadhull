@@ -24,7 +24,7 @@ Learning AI & Digital Marketing
 | AI | Chatbots, prompt engineering |
 | Marketing | Digital Marketing, SEO |
 | Content Creation | Video Editing (CapCut), YouTube |
-| Languages | TypeScript, Python, JavaScript |
+| Web Development | React, Vite, Node.js, Express |
 
 ## Currently Learning
 
