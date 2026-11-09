@@ -13,7 +13,7 @@ Learning AI & Digital Marketing
 |---|---|---|
 | Candy Crush 3D Sweet Saga | A score and level-based 3D game built with TypeScript | [Code](https://github.com/soniyadhull/candy-crush-3D-sweet-saga-game) |
 | Mychatbot | A chatbot that provides digital marketing information | [Code](https://github.com/soniyadhull/Mychatbot) |
-| ElectroHub | A premium, fully animated multi-page electronics shop website built with React, Vite and Express | [Code](https://github.com/soniyadhull/electrohub) |
+| ElectroHub | A premium, fully animated multi-page electronics shop website built with React, Vite and Express | https://electrohub-wy7e.vercel.app/
 
 
 ## Skills
